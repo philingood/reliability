@@ -3,7 +3,7 @@ project(app)
 
 add_executable(main
 main.cpp
-input_table.h
+tables_functions.h
 input_table.cpp
 )
 
